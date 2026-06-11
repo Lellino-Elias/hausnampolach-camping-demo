@@ -169,7 +169,7 @@ export const hausnampolach: CampsiteConfig = {
     mail: "info@hausnampolach.com",
     facebook: "https://www.facebook.com/profile.php?id=100093501194212",
     adresse: "Nampolach 3 · 9624 Egg bei Hermagor · Kärnten",
-    coords: { lat: 46.6172925, lng: 13.4221111 },
+    coords: { lat: 46.613469, lng: 13.402997 },
   },
 
   story: {
