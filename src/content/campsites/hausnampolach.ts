@@ -164,12 +164,12 @@ export const hausnampolach: CampsiteConfig = {
   },
 
   kontakt: {
+    coords: { lat: 46.605556, lng: 13.464432 },
     tel: "+43 676 4239981",
     telHref: "tel:+436764239981",
     mail: "info@hausnampolach.com",
     facebook: "https://www.facebook.com/profile.php?id=100093501194212",
     adresse: "Nampolach 3 · 9624 Egg bei Hermagor · Kärnten",
-    coords: { lat: 46.613469, lng: 13.402997 },
   },
 
   story: {
