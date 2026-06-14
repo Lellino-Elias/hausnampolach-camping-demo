@@ -110,8 +110,8 @@ export const hausnampolach: CampsiteConfig = {
       "Ob Baden, Wandern, Radfahren, Skifahren oder Eislaufen — rund um Nampolach ist zu jeder Jahreszeit etwas los. Das Skigebiet Nassfeld liegt nur rund 20 Autominuten entfernt.",
     items: [
       { title: "Baden am Pressegger See", text: "Nur 3 km entfernt: der Pressegger See hat Trinkwasserqualität, rund 28 °C und SUP-Verleih am Strandbad Passriach.", image: { src: `${IMG}/aktiv-presseggersee.webp`, alt: "Stand-up-Paddeln am Pressegger See" } },
-      { title: “Wandern & Bergbahnen am Nassfeld”, text: “Mit der kostenlosen „+Card Holiday” fahren Sie gratis auf die Nassfelder Bergbahnen — Wanderungen und Familientouren inklusive.”, image: { src: `${IMG}/aktiv-nassfeld-sommer.webp`, alt: “Bergbahn am Nassfeld im Sommer” } },
-      { title: “Skifahren am Nassfeld”, text: “110 Pistenkilometer in allen Schwierigkeitsgraden mit Kinderpisten „The Wave” und „The Snake” — nur 20 Minuten entfernt.”, image: { src: `${IMG}/aktiv-skifahren.webp`, alt: “Pistenpanorama im Skigebiet Nassfeld” } },
+      { title: "Wandern & Bergbahnen am Nassfeld", text: "Mit der kostenlosen „+Card Holiday“ fahren Sie gratis auf die Nassfelder Bergbahnen — Wanderungen und Familientouren inklusive.", image: { src: `${IMG}/aktiv-nassfeld-sommer.webp`, alt: "Bergbahn am Nassfeld im Sommer" } },
+      { title: "Skifahren am Nassfeld", text: "110 Pistenkilometer in allen Schwierigkeitsgraden mit Kinderpisten „The Wave“ und „The Snake“ — nur 20 Minuten entfernt.", image: { src: `${IMG}/aktiv-skifahren.webp`, alt: "Pistenpanorama im Skigebiet Nassfeld" } },
       { title: "Eislaufen am Weißensee", text: "Drehen Sie Ihre Runden auf der größten präparierten Natureisfläche Europas — ein besonderes Wintererlebnis für Groß und Klein.", image: { src: `${IMG}/aktiv-weissensee.webp`, alt: "Eislaufen auf dem zugefrorenen Weißensee" } },
       { title: "Winterzauber mit den Gondeln", text: "Langlaufen, Rodeln und Schneewandern: ein präpariertes Loipennetz und urige Hütten machen jeden Wintertag besonders.", image: { src: `${IMG}/aktiv-winter-gondel.webp`, alt: "Gondeln im verschneiten Skigebiet Nassfeld" } },
     ],
