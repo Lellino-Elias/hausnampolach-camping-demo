@@ -37,8 +37,8 @@ export const hausnampolach: CampsiteConfig = {
   },
 
   pillars: [
-    { title: "Camperplatz in der Natur", text: "Unser kleiner Camperplatz bietet Platz für nur 4 Wohnmobile — mitten in der Natur, mit angrenzendem Bauernhof und Blick auf Wald, Wiesen und Berge.", image: { src: `${IMG}/pillar-camperplatz.webp`, alt: "Wohnmobile auf dem Camperplatz Nampolach mit Bergblick" } },
-    { title: "Neue Ferienwohnungen", text: "Zwei komplett renovierte, modern eingerichtete Ferienwohnungen für bis zu 5 bzw. 4 Personen — mehr Platz, mehr Ruhe, mehr Entspannung.", image: { src: `${IMG}/pillar-ferienwohnung.webp`, alt: "Moderne Ferienwohnung im Haus Nampolach mit offener Küche" } },
+    { title: "Camperplatz in der Natur", text: "Unser kleiner Camperplatz bietet Platz für 4 Wohnmobile — mitten in der Natur, mit Bauernhof und Blick auf Wald und Berge.", image: { src: `${IMG}/pillar-camperplatz.webp`, alt: "Wohnmobile auf dem Camperplatz Nampolach mit Bergblick" } },
+    { title: "Neue Ferienwohnungen", text: "Zwei komplett renovierte Ferienwohnungen für bis zu 5 bzw. 4 Personen — mehr Platz, mehr Ruhe, mehr Entspannung.", image: { src: `${IMG}/pillar-ferienwohnung.webp`, alt: "Moderne Ferienwohnung im Haus Nampolach mit offener Küche" } },
     { title: "Sonniger Süden Kärntens", text: "Im idyllischen Nampolach bei Hermagor — in der Region mit den meisten Sonnenstunden Österreichs, 3 km vom Pressegger See.", image: { src: `${IMG}/pillar-garten.webp`, alt: "Haus Nampolach mit Garten und Bergblick im Sommer" } },
   ],
 
@@ -77,9 +77,9 @@ export const hausnampolach: CampsiteConfig = {
     features: [
       { title: "Mitten in der Natur", text: "Ruhige Lage mit angrenzendem Bauernhof und herrlichem Rundumblick auf Wald, Wiesen und Berge — Rehe am Waldrand inklusive.", image: { src: `${IMG}/camping-blumenwiese.webp`, alt: "Blühende Blumenwiese am Camperplatz Nampolach mit Wohnmobilen und Bergblick" } },
       { title: "Gepflasterte Stellplätze", text: "Geräumige, befestigte Stellplätze mit Platz für Wohnmobile bis zu 7 Metern — sonnig den ganzen Tag.", image: { src: `${IMG}/camping-stellplaetze.webp`, alt: "Gepflasterte Wohnmobilstellplätze auf der Wiese" } },
-      { title: "Strom, Wasser & WLAN", text: "Jeder Stellplatz hat Strom- und Wasseranschluss; der Preis beinhaltet Wasser und WLAN. Zum Frischmachen steht eine Außendusche bereit.", image: { src: `${IMG}/camping-versorgung.webp`, alt: "Außendusche am Camperplatz mit Bergblick" } },
+      { title: "Strom, Wasser & WLAN", text: "Jeder Stellplatz hat Strom- und Wasseranschluss inkl. Wasser und WLAN; zum Frischmachen steht eine Außendusche bereit.", image: { src: `${IMG}/camping-versorgung.webp`, alt: "Außendusche am Camperplatz mit Bergblick" } },
       { title: "Frische Brötchen", text: "Brötchen bis 17:00 Uhr bestellen — am nächsten Morgen bringen wir sie frisch zu Ihnen.", image: { src: `${IMG}/camping-broetchen.webp`, alt: "Frische Brötchen mit Blick über den Camperplatz" } },
-      { title: "Platz & Ruhe für nur 4 Camper", text: "Spannen Sie die Markise aus, genießen Sie ein Getränk oder ein Buch — mehr Ruhe geht kaum. Die Chemietoilette können Sie bei uns entleeren.", image: { src: `${IMG}/camping-sonne.webp`, alt: "Sonniger Camperplatz mit Sitzgelegenheiten und Haus" } },
+      { title: "Platz & Ruhe für nur 4 Camper", text: "Spannen Sie die Markise aus, genießen Sie ein Getränk oder ein Buch — mehr Ruhe geht kaum.", image: { src: `${IMG}/camping-sonne.webp`, alt: "Sonniger Camperplatz mit Sitzgelegenheiten und Haus" } },
     ],
   },
 
@@ -88,8 +88,8 @@ export const hausnampolach: CampsiteConfig = {
     intro:
       "Lieber feste Wände als Wohnmobil? Unsere zwei komplett renovierten Ferienwohnungen sind modern eingerichtet und voll ausgestattet — mit Küche, Smart-TV, kostenlosem WLAN und Brötchenservice. Auf Wunsch stellen wir gerne Kinderbett und Hochstuhl bereit.",
     items: [
-      { name: "Ferienwohnung 1", kind: "bis 5 Personen", text: "Geräumige Wohnung mit voll ausgestatteter Küche, gemütlichem Wohnzimmer mit großem Sofa und Smart-TV. Zwei Schlafzimmer: Doppel-Boxspringbett sowie Etagenbett mit ausziehbarem drittem Bett — ideal für Kinder. Komplett renoviertes Bad mit Dusche, Bettwäsche und Handtücher inklusive.", image: { src: `${IMG}/fewo1.webp`, alt: "Wohnzimmer der Ferienwohnung 1 im Haus Nampolach" }, priceFrom: 70, features: ["bis 5 Personen", "2 Schlafzimmer", "Küche · Smart-TV · WLAN"] },
-      { name: "Ferienwohnung 2", kind: "bis 4 Personen", text: "Komplett renovierte Wohnung mit voll ausgestatteter Küche, hellem Wohnzimmer mit Smart-TV und Blick ins Grüne. Zwei Schlafzimmer mit Doppel-Boxspringbett und Etagenbett. Modernes Bad mit Dusche, Bettwäsche und Handtücher inklusive.", image: { src: `${IMG}/fewo2.webp`, alt: "Helles Wohnzimmer der Ferienwohnung 2 im Haus Nampolach" }, priceFrom: 70, features: ["bis 4 Personen", "2 Schlafzimmer", "komplett renoviert"] },
+      { name: "Ferienwohnung 1", kind: "bis 5 Personen", text: "Geräumige Wohnung mit Küche, Smart-TV, zwei Schlafzimmern mit Boxspringbett und Etagenbett sowie renoviertem Bad.", image: { src: `${IMG}/fewo1.webp`, alt: "Wohnzimmer der Ferienwohnung 1 im Haus Nampolach" }, priceFrom: 70, features: ["bis 5 Personen", "2 Schlafzimmer", "Küche · Smart-TV · WLAN"] },
+      { name: "Ferienwohnung 2", kind: "bis 4 Personen", text: "Renovierte Wohnung mit Küche, Smart-TV, zwei Schlafzimmern und modernem Bad — Bettwäsche inklusive.", image: { src: `${IMG}/fewo2.webp`, alt: "Helles Wohnzimmer der Ferienwohnung 2 im Haus Nampolach" }, priceFrom: 70, features: ["bis 4 Personen", "2 Schlafzimmer", "komplett renoviert"] },
     ],
   },
 
@@ -109,9 +109,9 @@ export const hausnampolach: CampsiteConfig = {
     intro:
       "Ob Baden, Wandern, Radfahren, Skifahren oder Eislaufen — rund um Nampolach ist zu jeder Jahreszeit etwas los. Das Skigebiet Nassfeld liegt nur rund 20 Autominuten entfernt.",
     items: [
-      { title: "Baden am Pressegger See", text: "Nur 3 km entfernt: der Pressegger See hat Trinkwasserqualität und im Schnitt rund 28 °C. SUP- und Tretbootverleih am Strandbad Passriach.", image: { src: `${IMG}/aktiv-presseggersee.webp`, alt: "Stand-up-Paddeln am Pressegger See" } },
-      { title: "Wandern & Bergbahnen am Nassfeld", text: "Mit der kostenlosen „Sommer +Card Holiday“ gratis auf die Nassfelder Bergbahnen — zu Wanderungen, dem Aqua Trail und Touren für die ganze Familie.", image: { src: `${IMG}/aktiv-nassfeld-sommer.webp`, alt: "Bergbahn am Nassfeld im Sommer" } },
-      { title: "Skifahren am Nassfeld", text: "110 Pistenkilometer in allen Schwierigkeitsgraden, dazu die Kinderpisten „The Wave“ und „The Snake“ — nur rund 20 Minuten entfernt.", image: { src: `${IMG}/aktiv-skifahren.webp`, alt: "Pistenpanorama im Skigebiet Nassfeld" } },
+      { title: "Baden am Pressegger See", text: "Nur 3 km entfernt: der Pressegger See hat Trinkwasserqualität, rund 28 °C und SUP-Verleih am Strandbad Passriach.", image: { src: `${IMG}/aktiv-presseggersee.webp`, alt: "Stand-up-Paddeln am Pressegger See" } },
+      { title: “Wandern & Bergbahnen am Nassfeld”, text: “Mit der kostenlosen „+Card Holiday” fahren Sie gratis auf die Nassfelder Bergbahnen — Wanderungen und Familientouren inklusive.”, image: { src: `${IMG}/aktiv-nassfeld-sommer.webp`, alt: “Bergbahn am Nassfeld im Sommer” } },
+      { title: “Skifahren am Nassfeld”, text: “110 Pistenkilometer in allen Schwierigkeitsgraden mit Kinderpisten „The Wave” und „The Snake” — nur 20 Minuten entfernt.”, image: { src: `${IMG}/aktiv-skifahren.webp`, alt: “Pistenpanorama im Skigebiet Nassfeld” } },
       { title: "Eislaufen am Weißensee", text: "Drehen Sie Ihre Runden auf der größten präparierten Natureisfläche Europas — ein besonderes Wintererlebnis für Groß und Klein.", image: { src: `${IMG}/aktiv-weissensee.webp`, alt: "Eislaufen auf dem zugefrorenen Weißensee" } },
       { title: "Winterzauber mit den Gondeln", text: "Langlaufen, Rodeln und Schneewandern: ein präpariertes Loipennetz und urige Hütten machen jeden Wintertag besonders.", image: { src: `${IMG}/aktiv-winter-gondel.webp`, alt: "Gondeln im verschneiten Skigebiet Nassfeld" } },
     ],
