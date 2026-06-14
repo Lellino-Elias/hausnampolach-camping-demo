@@ -137,7 +137,7 @@ export const hausnampolach: CampsiteConfig = {
       { src: `${IMG}/galerie-essen.webp`, alt: "Gedeckter Esstisch in der Ferienwohnung" },
       { src: `${IMG}/galerie-kueche.webp`, alt: "Moderne, voll ausgestattete Küche der Ferienwohnung" },
       { src: `${IMG}/galerie-bad.webp`, alt: "Komplett renoviertes Bad mit Regendusche" },
-      { src: `${IMG}/galerie-schlafzimmer.webp`, alt: "Gemütliches Schlafzimmer der Ferienwohnung" },
+      { src: `${IMG}/galerie-schlafzimmer.webp`, alt: "Helles Doppelschlafzimmer mit Boxspringbett in der Ferienwohnung" },
       { src: `${IMG}/galerie-pool-haus.webp`, alt: "Schwimmbad und Haus Nampolach mit Bergblick" },
       { src: `${IMG}/galerie-familie.webp`, alt: "Familie de Jong am Gipfelkreuz in den Bergen" },
     ],
