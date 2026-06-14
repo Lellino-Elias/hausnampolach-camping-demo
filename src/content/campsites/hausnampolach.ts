@@ -75,7 +75,7 @@ export const hausnampolach: CampsiteConfig = {
     intro:
       "Vier geräumige, gepflasterte Stellplätze für Wohnmobile bis 7 Meter — mitten in der Natur mit angrenzendem Bauernhof. Geöffnet von 1. April bis 31. Oktober. Genießen Sie die Sonne, die den ganzen Tag über das Feld wärmt, und beobachten Sie die Rehe am Waldrand.",
     features: [
-      { title: "Mitten in der Natur", text: "Ruhige Lage mit angrenzendem Bauernhof und herrlichem Rundumblick auf Wald, Wiesen und Berge — Rehe am Waldrand inklusive.", image: { src: `${IMG}/camping-natur.webp`, alt: "Camperplatz Nampolach mit Bergen und Morgennebel" } },
+      { title: "Mitten in der Natur", text: "Ruhige Lage mit angrenzendem Bauernhof und herrlichem Rundumblick auf Wald, Wiesen und Berge — Rehe am Waldrand inklusive.", image: { src: `${IMG}/camping-blumenwiese.webp`, alt: "Blühende Blumenwiese am Camperplatz Nampolach mit Wohnmobilen und Bergblick" } },
       { title: "Gepflasterte Stellplätze", text: "Geräumige, befestigte Stellplätze mit Platz für Wohnmobile bis zu 7 Metern — sonnig den ganzen Tag.", image: { src: `${IMG}/camping-stellplaetze.webp`, alt: "Gepflasterte Wohnmobilstellplätze auf der Wiese" } },
       { title: "Strom, Wasser & WLAN", text: "Jeder Stellplatz hat Strom- und Wasseranschluss; der Preis beinhaltet Wasser und WLAN. Zum Frischmachen steht eine Außendusche bereit.", image: { src: `${IMG}/camping-versorgung.webp`, alt: "Außendusche am Camperplatz mit Bergblick" } },
       { title: "Frische Brötchen", text: "Brötchen bis 17:00 Uhr bestellen — am nächsten Morgen bringen wir sie frisch zu Ihnen.", image: { src: `${IMG}/camping-broetchen.webp`, alt: "Frische Brötchen mit Blick über den Camperplatz" } },
